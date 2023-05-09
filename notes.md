@@ -1,0 +1,20 @@
+resumemaker.online
+
+www.jobscan.co
+
+medium.com
+
+zero to mastery community
+
+
+email signature
+
+
+
+
+
+** Good Code **
+- Readable
+- Scalable
+    - Space
+    - Time
